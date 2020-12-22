@@ -1,4 +1,4 @@
-#SSSSAssistente pessoal sem voz ou reconhecimento de voz feita por Vodrick a 20/12/2020
+#Assistente pessoal sem voz ou reconhecimento de voz feita por Vodrick a 20/12/2020
 
 #Perguntar estado
 
